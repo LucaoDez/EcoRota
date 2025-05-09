@@ -19,20 +19,20 @@ Equipe - TechNova
 
 Organização do Projeto
 
-- Trello:
+- Link de acesso ao Trello:
 
 https://trello.com/invite/b/68110ad97fd9fd0d48b2f1a4/ATTI2436ae01e976487a1c88fa813dfdd30779787BAA/backlog-ecorota 
 
 - Backlog e Tarefas: Serão organizadas via Trello com as histórias de usuário e status de desenvolvimento.
 
-Repositório
+- Protótipos no Figma
 
-- GitHub: a definir
+(https://www.figma.com/design/TcjdBup5ITiKSn5UvlvE9y/Prototipo-EcoRota?m=auto&t=9WlOXW6vt4EiTRX8-6)
 
-Tecnologias
+Contém sketches e storyboards para as histórias acima (mínimo 5)
 
-- Python 3.x  
-- Django (sem uso de generic views ou Django Forms)  
-- Banco de dados a definir (PostgreSQL, MySQL, SQLite etc.)
+- Screencast Apresentando o Protótipo:
 
-Status do Projeto: Kickoff
+(link  do video)
+
+Status do Projeto: Protótipo Lo-Fi
