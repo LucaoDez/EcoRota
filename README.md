@@ -25,14 +25,36 @@ https://trello.com/invite/b/68110ad97fd9fd0d48b2f1a4/ATTI2436ae01e976487a1c88fa8
 
 - Backlog e Tarefas: Serão organizadas via Trello com as histórias de usuário e status de desenvolvimento.
 
+- Histórias de usuário
+  
+1.Como ciclista urbano, quero encontrar rotas com menor índice de poluição para pedalar por caminhos mais saudáveis.
+
+2.Como ciclista, quero visualizar em tempo real o trânsito nas rotas disponíveis para evitar congestionamentos.
+
+3.Como ciclista, quero que o sistema me sugira rotas com ciclovias sempre que possível para garantir mais segurança.
+
+4.Como usuário, quero salvar minhas rotas favoritas para acessá-las rapidamente no futuro.
+
+5.Como ciclista, quero ver alertas de risco (ex: áreas perigosas, pouca iluminação) ao planejar uma rota para tomar decisões mais seguras.
+
+6.Como ciclista iniciante, quero estimativas de tempo e esforço físico da rota para planejar melhor meus trajetos.
+
+7.Como usuário, quero cadastrar e editar meu perfil para personalizar minhas preferências de trajeto.
+
+8.Como ciclista, quero avaliar as rotas após utilizá-las para ajudar outros usuários com feedbacks sobre segurança e conforto.
+
+9.Como usuário, quero acessar o histórico dos meus trajetos anteriores para acompanhar meu desempenho e rotas mais usadas.
+
+10.Como ciclista, quero receber sugestões de rotas alternativas quando houver mudanças bruscas na qualidade do ar ou trânsito.
+
 - Protótipos no Figma
 
-(https://www.figma.com/design/TcjdBup5ITiKSn5UvlvE9y/Prototipo-EcoRota?m=auto&t=9WlOXW6vt4EiTRX8-6)
+https://www.figma.com/design/TcjdBup5ITiKSn5UvlvE9y/Prototipo-EcoRota?m=auto&t=9WlOXW6vt4EiTRX8-6
 
 Contém sketches e storyboards para as histórias acima (mínimo 5)
 
 - Screencast Apresentando o Protótipo:
 
-(link  do video)
+https://youtube.com/shorts/RZ9R8yGCF1A?feature=share
 
 Status do Projeto: Protótipo Lo-Fi
