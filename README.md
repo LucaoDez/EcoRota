@@ -51,10 +51,6 @@ https://trello.com/invite/b/68110ad97fd9fd0d48b2f1a4/ATTI2436ae01e976487a1c88fa8
 
 https://www.figma.com/design/TcjdBup5ITiKSn5UvlvE9y/Prototipo-EcoRota?m=auto&t=9WlOXW6vt4EiTRX8-6
 
-Contém sketches e storyboards para as histórias acima (mínimo 5)
-
 - Screencast Apresentando o Protótipo:
 
 https://youtube.com/shorts/RZ9R8yGCF1A?feature=share
-
-Status do Projeto: Protótipo Lo-Fi
